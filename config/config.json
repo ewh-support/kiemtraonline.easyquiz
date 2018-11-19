@@ -1,0 +1,6 @@
+{
+    "name": "EasyWeb AdminCP",
+    "version": 1.0,
+    "apiEndPoint" : "http://159.65.133.13:4400",
+    "websiteTitle" : "Kiểm tra Online"
+}
